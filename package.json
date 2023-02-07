@@ -1,11 +1,22 @@
 {
   "name": "pong",
   "version": "1.0.0",
-  "description": "",
+  "description": "pong game Ben Park",
   "main": "pong.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Ben Park",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpark508/Pong.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "bugs": {
+    "url": "https://github.com/benpark508/Pong/issues"
+  },
+  "homepage": "https://github.com/benpark508/Pong#readme"
 }
